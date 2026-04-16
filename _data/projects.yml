@@ -1,0 +1,35 @@
+- title: Fleet onboarding and endpoint rollout
+  eyebrow: Case Study
+  description: Designed onboarding flows for macOS, Windows, and Linux customers with an emphasis on stability, security, and adoption.
+  tags: [MDM, Customer Success]
+  link: https://example.com
+
+- title: Zero-touch deployment architecture
+  eyebrow: Project
+  description: Built scalable enrollment and configuration patterns across ABM, identity, and compliance workflows.
+  tags: [Apple, Automation, IT Ops]
+  link: https://example.com
+
+- title: Home lab services and documentation
+  eyebrow: Lab
+  description: Ongoing self-hosted projects spanning media, DNS filtering, remote access, and server administration.
+  tags: [Homelab, Linux]
+  link: https://example.com
+
+- title: Training and enablement resources
+  eyebrow: Writing
+  description: Created technical guides, playbooks, and customer-facing resources to reduce implementation friction.
+  tags: [Documentation, Enablement]
+  link: https://example.com
+
+- title: Customer portfolio leadership
+  eyebrow: Experience
+  description: Managed enterprise relationships, renewals, and technical adoption plans across multi-OS environments.
+  tags: [CSM, Strategy]
+  link: https://example.com
+
+- title: Security and compliance implementation
+  eyebrow: Operations
+  description: Supported baseline hardening, certificate workflows, and policy design with practical rollout planning.
+  tags: [Security, Compliance]
+  link: https://example.com

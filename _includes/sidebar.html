@@ -1,0 +1,19 @@
+<aside class="sidebar">
+  <div class="brand">essential</div>
+  <nav class="desktop-nav">
+    <a href="{{ '/work/' | relative_url }}">Work</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
+  </nav>
+
+  <div class="profile-card">
+    <img src="{{ site.profile.avatar | relative_url }}" alt="{{ site.profile.name }}" class="avatar">
+    <h1>{{ site.profile.name }}</h1>
+    <p class="lead">{{ site.profile.role }}</p>
+    <p>{{ site.profile.intro }}</p>
+    <div class="socials">
+      <a href="{{ site.social.website }}" target="_blank" rel="noreferrer">Website</a>
+      <a href="{{ site.social.linkedin }}" target="_blank" rel="noreferrer">LinkedIn</a>
+    </div>
+    <a class="cta" href="{{ site.social.cta_url }}" target="_blank" rel="noreferrer">{{ site.social.cta_text }}</a>
+  </div>
+</aside>

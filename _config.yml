@@ -1,0 +1,25 @@
+title: "Your Name"
+description: "A minimalist personal portfolio theme for Jekyll"
+baseurl: ""
+url: ""
+markdown: kramdown
+permalink: pretty
+plugins: []
+collections:
+  projects:
+    output: false
+social:
+  website: "https://example.com"
+  linkedin: "https://linkedin.com/in/yourname"
+  cta_text: "I'm available for work"
+  cta_url: "https://calendly.com/yourname"
+profile:
+  name: "Your Name"
+  role: "IT Operations, Endpoint Management, and Customer Success"
+  intro: "I help teams deploy, secure, and scale modern endpoint environments with a focus on user experience, automation, and business value."
+  avatar: "/assets/images/avatar-placeholder.svg"
+footer:
+  heading: "Let’s build something useful"
+  text: "Use this area for a closing CTA, newsletter, or contact invitation."
+  email: "you@example.com"
+  phone: "+1 (555) 555-5555"

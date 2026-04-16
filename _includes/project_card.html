@@ -1,0 +1,16 @@
+<article class="project-card">
+  <div class="project-icon">✦</div>
+  <div class="project-body">
+    <p class="eyebrow">{{ include.project.eyebrow }}</p>
+    <h2>{{ include.project.title }}</h2>
+    <p>{{ include.project.description }}</p>
+    <div class="tags">
+      {% for tag in include.project.tags %}
+        <span>{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% if include.project.link %}
+    <a class="project-link" href="{{ include.project.link }}" target="_blank" rel="noreferrer">↗</a>
+  {% endif %}
+</article>
