@@ -1,4 +1,4 @@
-# Lever-Inspired Jekyll Theme
+# Personal Page Jekyll Theme
 
 A free Jekyll portfolio starter inspired by the layout and feel of the Jekyll Lever demo.
 
